@@ -1,2 +1,3 @@
 This is a sample file
 i am a Java developer
+added third line to the file
